@@ -1,5 +1,5 @@
 SHELL := bash
-FONT_PREFIX = $*/
+FONT_PREFIX = $*-subset/
 all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.concat.html
 %.pdf: %.odt
 	oowriter --headless --convert-to pdf $<
