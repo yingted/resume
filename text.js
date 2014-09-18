@@ -28,8 +28,9 @@ page.open(args[1], function (status) {
       codes.push('0u' + i);
     }
   }
-  for (var i = 0; i < codes.length; i += 25) {
-    console.log('SelectSingletons(' + codes.slice(i, i + 25) + ');');
+  var maxArgs = 24;
+  for (var i = 0; i < codes.length; i += maxArgs) {
+    console.log('SelectSingletons(' + codes.slice(i, i + maxArgs) + ');');
   }
   console.log('Save($2);');
   phantom.exit();
