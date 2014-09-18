@@ -12,7 +12,7 @@ page.open(args[1], function (status) {
   if (status !== 'success') {
     phantom.exit(1);
   }
-  console.log('#!/usr/bin/env fontforge\nOpen($1);');
+  console.log('#!/usr/bin/env fontforge\nOpen($1);SelectAll();');
   var seen = new Uint8Array(1 << 20);
   for (var i = 0, s = page.plainText; i < s.length; ++i) {
     var c = s.charCodeAt(i);
@@ -30,8 +30,8 @@ page.open(args[1], function (status) {
   }
   var maxArgs = 24;
   for (var i = 0; i < codes.length; i += maxArgs) {
-    console.log('SelectSingletons(' + codes.slice(i, i + maxArgs) + ');');
+    console.log('SelectFewerSingletons(' + codes.slice(i, i + maxArgs) + ');');
   }
-  console.log('Save($2);');
+  console.log('DetachAndRemoveGlyphs();Save($2);');
   phantom.exit();
 });
