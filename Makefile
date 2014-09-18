@@ -1,4 +1,6 @@
-all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.html resume
+SHELL := bash
+FONT_PREFIX = $%/
+all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf
 %.pdf: %.odt
 	oowriter --headless --convert-to pdf $<
 %.bin.odt: %.odt
@@ -18,4 +20,6 @@ all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.html resume
 		fontforge -script $< "$$font" $@/"$$base";\
 		fontforge -script all.ff $@/"$$base" $@/"$${base%.*}";\
 	done
+%.concat.html: %.bin.odt odt.css %
+	./html.py $< <(cat odt.css; ./concat.py $* $(FONT_PREFIX)) > $@
 .PHONY: all
