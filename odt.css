@@ -24,3 +24,16 @@ body {
 * {
 	background-color: transparent;
 }
+h1.P-P4 {
+	position: relative;
+	margin-bottom: -1.3em;
+}
+h1.P-P4:after {
+	display: inline-block;
+	content: "";
+	width: 100%;
+}
+h1.P-P4 > * {
+	display: inline-block;
+	position: relative;
+}

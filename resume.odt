@@ -4,29 +4,29 @@
  <office:meta>
     <meta:initial-creator>Ted Ying</meta:initial-creator>
     <meta:creation-date>2014-09-17T00:25:40.555990324</meta:creation-date>
-    <dc:date>2014-09-18T02:17:17.870792954</dc:date>
+    <dc:date>2014-09-18T03:36:34.114438823</dc:date>
     <dc:creator>Ted Ying</dc:creator>
     <meta:editing-duration>PT1H19M40S</meta:editing-duration>
-    <meta:editing-cycles>66</meta:editing-cycles>
+    <meta:editing-cycles>67</meta:editing-cycles>
     
     <meta:generator>LibreOffice/4.2.6.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator>
-  <meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="41" meta:word-count="375" meta:character-count="2457" meta:non-whitespace-character-count="2144"/></office:meta>
+  <meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="41" meta:word-count="375" meta:character-count="2460" meta:non-whitespace-character-count="2144"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22636</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22638</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">9578</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">8070</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3909</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">15005</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">1771</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22634</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22636</config:config-item>
      <config:config-item config:name="VisibleBottom" config:type="long">9576</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
@@ -90,7 +90,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">4969431</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5098694</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -945,14 +945,14 @@
       <draw:text-box fo:min-height="0.0201in" fo:min-width="0.0201in">
        <text:h text:style-name="P6" text:outline-level="1">Ted Ying</text:h>
       </draw:text-box>
-     </draw:frame></text:span><text:span text:style-name="T1"> </text:span><text:a xlink:type="simple" xlink:href="mailto:ted@yingted.com?subject=Re: Résumé"><text:span text:style-name="T2">ted@yingted.com</text:span></text:a> <text:span text:style-name="T2"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" draw:z-index="1">
+     </draw:frame></text:span><text:span text:style-name="T1"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="mailto:ted@yingted.com?subject=Re:%20Résumé"><text:span text:style-name="T2">ted@yingted.com</text:span></text:a> <text:s/><text:span text:style-name="T2"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" draw:z-index="1">
       <draw:text-box fo:min-height="0.0201in" fo:min-width="0.0201in">
        <text:h text:style-name="Heading_20_1" text:outline-level="1">(647) 624-1168</text:h>
       </draw:text-box>
-     </draw:frame></text:span><text:span text:style-name="T2"> </text:span><text:a xlink:type="simple" xlink:href="http://bit.ly/1r1wsz9"><text:span text:style-name="T2">github.com/yingted</text:span></text:a></text:h>
+     </draw:frame></text:span><text:span text:style-name="T2"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="http://bit.ly/1r1wsz9"><text:span text:style-name="T2">github.com/yingted</text:span></text:a></text:h>
    <text:h text:style-name="P7" text:outline-level="2">Work Experience</text:h>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Full-stack Engineering Developer</text:span>, <text:span text:style-name="Where">Remind </text:span><text:span text:style-name="Where"><text:span text:style-name="T7">(formerly Remind101)</text:span></text:span><text:tab/><text:span text:style-name="When">Summer 2014</text:span><text:tab/><text:span text:style-name="City">San Francisco, CA</text:span></text:p>
-   <text:list xml:id="list1730522509826329305" text:style-name="L1">
+   <text:list xml:id="list9218070050442673797" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P8">Wrote new message sender, which has processed over half a billion events for 7 communication services and 3 encodings</text:p>
     </text:list-item>
@@ -979,31 +979,31 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Undergraduate Research Assistant</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:span text:style-name="When">Winter 2014</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
-   <text:list xml:id="list6761477414598882612" text:style-name="L2">
+   <text:list xml:id="list8174813139815748764" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P9">Developed fluid animation simulator using spatial data structures</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Developer</text:span> (unpaid), <text:span text:style-name="Where">Weinreb Ventures</text:span><text:tab/><text:span text:style-name="When">Summer 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list460076702934412582" text:style-name="L3">
+   <text:list xml:id="list1385226608493059452" text:style-name="L3">
     <text:list-item>
      <text:p text:style-name="P10">Added form validation and input sanitization</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Head of Technology</text:span> (volunteer), <text:span text:style-name="Where">MS Mississauga YC</text:span><text:tab/><text:span text:style-name="When">Fall 2012 – Summer 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list913048860900140036" text:style-name="L4">
+   <text:list xml:id="list8563735134618079273" text:style-name="L4">
     <text:list-item>
      <text:p text:style-name="P11">Created a <text:a xlink:type="simple" xlink:href="http://bit.ly/1s6WuVi">website</text:a> for event information using Django on Google AppEngine</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Skills</text:h>
-   <text:list xml:id="list2189069031864044143" text:style-name="L5">
+   <text:list xml:id="list8954639449627296275" text:style-name="L5">
     <text:list-item>
      <text:p text:style-name="P12">Languages: <text:span text:style-name="T3">Python</text:span>, <text:span text:style-name="T3">JavaScript</text:span>, <text:span text:style-name="T3">Java</text:span>, <text:span text:style-name="T3">C</text:span>, <text:span text:style-name="T3">Bash</text:span>, C++, HTML, SASS/CSS, and Lua</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Activities and Interests</text:h>
-   <text:list xml:id="list5568203120337281511" text:style-name="L6">
+   <text:list xml:id="list8035290528370597802" text:style-name="L6">
     <text:list-item>
      <text:p text:style-name="P13">Ran in-school programming competitions for computer science club</text:p>
      <text:list>
@@ -1059,13 +1059,13 @@
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Education</text:h>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Candidate for Bachelor of Software Engineering</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:tab/><text:tab/><text:span text:style-name="When">Sept. 2013 – present</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
-   <text:list xml:id="list7120139415930883691" text:style-name="L7">
+   <text:list xml:id="list3118487911137976113" text:style-name="L7">
     <text:list-item>
      <text:p text:style-name="P14">Developed an IR sensor driver using high dynamic range for robot navigation</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">High School Diploma</text:span>, <text:span text:style-name="Where">The Woodlands School</text:span><text:tab/><text:span text:style-name="When">June 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list3433976804537241412" text:style-name="L8">
+   <text:list xml:id="list1738683855643609544" text:style-name="L8">
     <text:list-item>
      <text:p text:style-name="P15">Implemented and optimized a 3D renderer in the Turing language</text:p>
     </text:list-item>
