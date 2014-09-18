@@ -11,7 +11,7 @@ all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.concat.html
 	saxon $< gmail.xsl > $@
 %.ff: %.html
 	./text.js $< > $@
-%: %.ff
+%-subset: %.ff
 	rm -rf $@
 	mkdir $@
 	fc-list 'CMU Serif' file | cut -d: -f1 | while read font;\
@@ -20,7 +20,7 @@ all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.concat.html
 		fontforge -script $< "$$font" $@/"$$base";\
 		fontforge -script all.ff $@/"$$base" $@/"$${base%.*}";\
 	done
-%.concat.html: %.bin.odt odt.css %
+%.concat.html: %.bin.odt odt.css %-subset
 	./html.py $< <(cat odt.css; ./concat.py $* $(FONT_PREFIX)) > $@
 clean:
 	git clean -fxd
