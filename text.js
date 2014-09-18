@@ -29,7 +29,7 @@ page.open(args[1], function (status) {
     }
   }
   var maxArgs = 24;
-  for (var i = 0; i < codes.length; i += maxArgs) {
+  for (var i = 0; i < codes.length; i += maxArgs) { // FIXME do this per-font
     console.log('SelectFewerSingletons(' + codes.slice(i, i + maxArgs) + ');');
   }
   console.log('DetachAndRemoveGlyphs();Save($2);');
