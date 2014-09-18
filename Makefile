@@ -12,6 +12,10 @@ all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.html resume
 %: %.ff
 	rm -rf $@
 	mkdir $@
-	fontforge -script $< cmunrm.otf $@/cmunrm.otf
-	fontforge -script all.ff $@/cmunrm.otf $@/cmunrm
+	fc-list 'CMU Serif' file | cut -d: -f1 | while read font;\
+	do\
+		base="$${font##*/}";\
+		fontforge -script $< "$$font" $@/"$$base";\
+		fontforge -script all.ff $@/"$$base" $@/"$${base%.*}";\
+	done
 .PHONY: all
