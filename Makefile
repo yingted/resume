@@ -22,4 +22,6 @@ all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.concat.html
 	done
 %.concat.html: %.bin.odt odt.css %
 	./html.py $< <(cat odt.css; ./concat.py $* $(FONT_PREFIX)) > $@
-.PHONY: all
+clean:
+	git clean -fxd
+.PHONY: all clean
