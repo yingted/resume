@@ -19,13 +19,11 @@ page.open(args[1], function (status) {
     if (0xd800 <= c && c <= 0xdbff) {
       c = ((c - 0xd800) << 10) + (s.charCodeAt(++i) - 0xdc00);
     }
-    if (!seen[c]) {
-      seen[c] = 1;
-    }
+    seen[c] = 1;
   }
   for (var i = 0, codes = []; i < seen.length; ++i) {
     if (seen[i]) {
-      codes.push('0u' + i);
+      codes.push('0u' + i.toString(16));
     }
   }
   var maxArgs = 24;
