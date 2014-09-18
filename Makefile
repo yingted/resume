@@ -1,4 +1,4 @@
-all: Ted_Ying_Résumé_Gmail.pdf Ted_Ying_Résumé.pdf resume.html
+all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.html
 %.pdf: %.odt
 	oowriter --headless --convert-to pdf $<
 %.bin.odt: %.odt
