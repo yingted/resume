@@ -978,7 +978,7 @@
      <text:p text:style-name="P8">Used behaviour-driven development</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Undergraduate Research Assistant</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:span text:style-name="When"><text:span text:style-name="T5">Winter</text:span></text:span><text:span text:style-name="When"> 2014</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
+   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Undergraduate Research Assistant</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:span text:style-name="When">Winter 2014</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
    <text:list xml:id="list6761477414598882612" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P9">Developed fluid animation simulator using spatial data structures</text:p>
