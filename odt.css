@@ -1,6 +1,11 @@
 body {
 	position: relative;
 	width: 7.5in;
+	margin: .5in;
+}
+html {
+	width: 8.5in;
+	height: 11in;
 }
 .S-City {
 	position: absolute;
