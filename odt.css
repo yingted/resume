@@ -1,0 +1,26 @@
+body {
+	position: relative;
+	width: 7.5in;
+}
+.S-City {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.S-When {
+	float: right;
+	margin-right: 1.5in;
+	bottom: 0;
+}
+.P-Job {
+	position: relative;
+}
+.P-Job:after {
+	content: " ";
+	display: block;
+	height: 0;
+	clear: both;
+}
+* {
+	background-color: transparent;
+}
