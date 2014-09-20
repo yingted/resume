@@ -949,7 +949,7 @@
       <draw:text-box fo:min-height="0.0201in" fo:min-width="0.0201in">
        <text:h text:style-name="Heading_20_1" text:outline-level="1">(647) 624-1168</text:h>
       </draw:text-box>
-     </draw:frame></text:span><text:span text:style-name="T2"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="http://bit.ly/1r1wsz9"><text:span text:style-name="T2">github.com/yingted</text:span></text:a></text:h>
+     </draw:frame></text:span><text:span text:style-name="T2"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="http://tiny.cc/ud1gmx"><text:span text:style-name="T2">github.com/yingted</text:span></text:a></text:h>
    <text:h text:style-name="P7" text:outline-level="2">Work Experience</text:h>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Full-stack Engineering Developer</text:span>, <text:span text:style-name="Where">Remind </text:span><text:span text:style-name="Where"><text:span text:style-name="T7">(formerly Remind101)</text:span></text:span><text:tab/><text:span text:style-name="When">Summer 2014</text:span><text:tab/><text:span text:style-name="City">San Francisco, CA</text:span></text:p>
    <text:list xml:id="list9218070050442673797" text:style-name="L1">
@@ -993,7 +993,7 @@
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Head of Technology</text:span> (volunteer), <text:span text:style-name="Where">MS Mississauga YC</text:span><text:tab/><text:span text:style-name="When">Fall 2012 – Summer 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
    <text:list xml:id="list8563735134618079273" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P11">Created a <text:a xlink:type="simple" xlink:href="http://bit.ly/1s6WuVi">website</text:a> for event information using Django on Google AppEngine</text:p>
+     <text:p text:style-name="P11">Created a <text:a xlink:type="simple" xlink:href="http://tiny.cc/fe1gmx">website</text:a> for event information using Django on Google AppEngine</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Skills</text:h>
@@ -1008,10 +1008,10 @@
      <text:p text:style-name="P13">Ran in-school programming competitions for computer science club</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P13">Ported <text:a xlink:type="simple" xlink:href="http://bit.ly/1tgHUZG">Turing language </text:a><text:a xlink:type="simple" xlink:href="http://bit.ly/1tgHUZG"><text:span text:style-name="T8">VM and runtime</text:span></text:a> (written in C) to GNU/Linux</text:p>
+       <text:p text:style-name="P13">Ported <text:a xlink:type="simple" xlink:href="http://tiny.cc/7h1gmx">Turing language <text:span text:style-name="T8">VM and runtime</text:span></text:a> (written in C) to GNU/Linux</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P13">Designed and developed <text:a xlink:type="simple" xlink:href="http://bit.ly/1p1E4P8">online grader</text:a> for practice CS competitions</text:p>
+       <text:p text:style-name="P13">Designed and developed <text:a xlink:type="simple" xlink:href="http://tiny.cc/rk1gmx">online grader</text:a> for practice CS competitions</text:p>
        <text:list>
         <text:list-item>
          <text:p text:style-name="P13">Uses ACE (editor), jQuery, Python, LXC (virtualization), and libseccomp (sandbox)</text:p>
@@ -1019,7 +1019,7 @@
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="http://bit.ly/1p1E55v">Tron game server</text:a>, clients, example bots, and game recording viewer</text:p>
+       <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="http://tiny.cc/hn1gmx">Tron game server</text:a>, clients, example bots, and game recording viewer</text:p>
        <text:list>
         <text:list-item>
          <text:p text:style-name="P13">Uses Twisted (Python evented networking), and Shed Skin (compiler)</text:p>
@@ -1029,7 +1029,7 @@
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="http://bit.ly/1r1wFCx">Android app</text:a> for Teredo (IPv6) tunnelling</text:p>
+     <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="http://tiny.cc/oo1gmx">Android app</text:a> for Teredo (IPv6) tunnelling</text:p>
      <text:list>
       <text:list-item>
        <text:p text:style-name="P13">Uses mksh, pthreads, and bionic libc</text:p>
