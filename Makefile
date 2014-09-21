@@ -1,6 +1,5 @@
 SHELL := bash
 FONT_PREFIX = $*-subset/
-nothing:
 all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.concat.html
 %.pdf: %.odt
 	soffice --headless --convert-to pdf $<
@@ -25,4 +24,4 @@ all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.concat.html
 	./html.py $< <(cat odt.css; ./concat.py $* $(FONT_PREFIX)) > $@
 clean:
 	git clean -fxd
-.PHONY: all clean nothing
+.PHONY: all clean
