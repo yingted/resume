@@ -2,9 +2,9 @@ SHELL := bash
 FONT_PREFIX = $*-subset/
 all: Ted_Ying_Resume_Gmail.pdf Ted_Ying_Resume.pdf resume.concat.html
 %.pdf: %.odt
-	oowriter --headless --convert-to pdf $<
+	soffice --headless --convert-to pdf $<
 %.bin.odt: %.odt
-	oowriter --headless --convert-to bin.odt:writer8 $<
+	soffice --headless --convert-to bin.odt:writer8 $<
 %.html: %.bin.odt odt.css
 	./html.py $< odt.css > $@
 %_Gmail.odt: %.odt
