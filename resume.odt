@@ -4,10 +4,10 @@
  <office:meta>
     <meta:initial-creator>Ted Ying</meta:initial-creator>
     <meta:creation-date>2014-09-17T00:25:40.555990324</meta:creation-date>
-    <dc:date>2014-09-20T22:41:22.283429525</dc:date>
+    <dc:date>2014-09-20T22:42:34.239243463</dc:date>
     <dc:creator>Ted Ying</dc:creator>
     <meta:editing-duration>PT1H19M40S</meta:editing-duration>
-    <meta:editing-cycles>68</meta:editing-cycles>
+    <meta:editing-cycles>69</meta:editing-cycles>
     
     <meta:generator>LibreOffice/4.2.6.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator>
   <meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="41" meta:word-count="375" meta:character-count="2460" meta:non-whitespace-character-count="2144"/></office:meta>
@@ -90,7 +90,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">5160057</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5275259</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -948,14 +948,14 @@
       <draw:text-box fo:min-height="0.0201in" fo:min-width="0.0201in">
        <text:h text:style-name="P6" text:outline-level="1">Ted Ying</text:h>
       </draw:text-box>
-     </draw:frame></text:span><text:span text:style-name="T1"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="mailto:ted@yingted.com?subject=Re: Résumé"><text:span text:style-name="T9">ted</text:span></text:a><text:span text:style-name="T9">@</text:span><text:a xlink:type="simple" xlink:href="https://www.yingted.com/"><text:span text:style-name="T9">yingted.com</text:span></text:a> <text:s/><text:span text:style-name="T2"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" draw:z-index="1">
+     </draw:frame></text:span><text:span text:style-name="T1"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="mailto:ted@yingted.com?subject=Re:%20Résumé"><text:span text:style-name="T9">ted</text:span></text:a><text:span text:style-name="T9">@</text:span><text:a xlink:type="simple" xlink:href="http://tiny.cc/i4mimx"><text:span text:style-name="T9">yingted.com</text:span></text:a> <text:s/><text:span text:style-name="T2"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" draw:z-index="1">
       <draw:text-box fo:min-height="0.0201in" fo:min-width="0.0201in">
        <text:h text:style-name="Heading_20_1" text:outline-level="1">(647) 624-1168</text:h>
       </draw:text-box>
      </draw:frame></text:span><text:span text:style-name="T2"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="http://tiny.cc/ud1gmx"><text:span text:style-name="T2">github.com/yingted</text:span></text:a></text:h>
    <text:h text:style-name="P7" text:outline-level="2">Work Experience</text:h>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Full-stack Engineering Developer</text:span>, <text:span text:style-name="Where">Remind </text:span><text:span text:style-name="Where"><text:span text:style-name="T7">(formerly Remind101)</text:span></text:span><text:tab/><text:span text:style-name="When">Summer 2014</text:span><text:tab/><text:span text:style-name="City">San Francisco, CA</text:span></text:p>
-   <text:list xml:id="list85424092144565903" text:style-name="L1">
+   <text:list xml:id="list9029246359796395304" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P8">Wrote new message sender, which has processed over half a billion events for 7 communication services and 3 encodings</text:p>
     </text:list-item>
@@ -982,31 +982,31 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Undergraduate Research Assistant</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:span text:style-name="When">Winter 2014</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
-   <text:list xml:id="list3363791580859199671" text:style-name="L2">
+   <text:list xml:id="list5573693976717577196" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P9">Developed fluid animation simulator using spatial data structures</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Developer</text:span> (unpaid), <text:span text:style-name="Where">Weinreb Ventures</text:span><text:tab/><text:span text:style-name="When">Summer 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list1655032910534529990" text:style-name="L3">
+   <text:list xml:id="list4792500952394129799" text:style-name="L3">
     <text:list-item>
      <text:p text:style-name="P10">Added form validation and input sanitization</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Head of Technology</text:span> (volunteer), <text:span text:style-name="Where">MS Mississauga YC</text:span><text:tab/><text:span text:style-name="When">Fall 2012 – Summer 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list1328757443822290756" text:style-name="L4">
+   <text:list xml:id="list5096490537835472855" text:style-name="L4">
     <text:list-item>
      <text:p text:style-name="P11">Created a <text:a xlink:type="simple" xlink:href="http://tiny.cc/fe1gmx">website</text:a> for event information using Django on Google AppEngine</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Skills</text:h>
-   <text:list xml:id="list5789625477996470627" text:style-name="L5">
+   <text:list xml:id="list9059492659459423077" text:style-name="L5">
     <text:list-item>
      <text:p text:style-name="P12">Languages: <text:span text:style-name="T3">Python</text:span>, <text:span text:style-name="T3">JavaScript</text:span>, <text:span text:style-name="T3">Java</text:span>, <text:span text:style-name="T3">C</text:span>, <text:span text:style-name="T3">Bash</text:span>, C++, HTML, SASS/CSS, and Lua</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Activities and Interests</text:h>
-   <text:list xml:id="list5785226967750585667" text:style-name="L6">
+   <text:list xml:id="list6944343980457272284" text:style-name="L6">
     <text:list-item>
      <text:p text:style-name="P13">Ran in-school programming competitions for computer science club</text:p>
      <text:list>
@@ -1062,13 +1062,13 @@
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Education</text:h>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Candidate for Bachelor of Software Engineering</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:tab/><text:tab/><text:span text:style-name="When">Sept. 2013 – present</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
-   <text:list xml:id="list5281217045626276131" text:style-name="L7">
+   <text:list xml:id="list2004884893019725315" text:style-name="L7">
     <text:list-item>
      <text:p text:style-name="P14">Developed an IR sensor driver using high dynamic range for robot navigation</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">High School Diploma</text:span>, <text:span text:style-name="Where">The Woodlands School</text:span><text:tab/><text:span text:style-name="When">June 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list9137959689588675829" text:style-name="L8">
+   <text:list xml:id="list7012361605594353179" text:style-name="L8">
     <text:list-item>
      <text:p text:style-name="P15">Implemented and optimized a 3D renderer in the Turing language</text:p>
     </text:list-item>
