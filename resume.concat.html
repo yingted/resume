@@ -1,0 +1,891 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="text/html;charset=UTF-8" http-equiv="Content-Type"/>
+<title></title>
+<style type="text/css">
+/*<![CDATA[*/
+
+img { width: 100%; height: 100%; }
+* { padding: 0; margin: 0;  background-color:white; }
+body { margin: 0 1em; }
+ol, ul { padding-left: 2em; }
+.P-Standard {
+	font-size: 11pt;
+	font-weight: normal;
+	font-family: 'CMU Serif';
+}
+.P-Heading {
+	margin-top: 0.1665in;
+	font-weight: normal;
+	font-size: 14pt;
+	font-family: 'CMU Serif';
+	margin-bottom: 0.0835in;
+}
+.P-Text_20_body {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-List {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-Caption {
+	font-size: 12pt;
+	font-family: 'CMU Serif';
+	margin-bottom: 0.0835in;
+	margin-top: 0.0835in;
+	font-weight: normal;
+	font-style: italic;
+}
+.P-Index {
+	font-size: 11pt;
+	font-weight: normal;
+	font-family: 'CMU Serif';
+}
+h1 {
+	margin-top: 0in;
+	font-weight: normal;
+	font-size: 130%;
+	font-family: 'CMU Serif';
+	margin-bottom: 0.0402in;
+}
+h2 {
+	font-variant: small-caps;
+	font-size: 115%;
+	font-weight: normal;
+	font-family: 'CMU Serif';
+	color: #284e42;
+	border-left: none;
+	margin-top: 0.0799in;
+	margin-bottom: 0.0402in;
+	padding: 0.0201in;
+	border-top: none;
+	border-right: none;
+	border-bottom: 0.06pt dotted #284e42;
+}
+.P-Job {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-Frame_20_contents {
+	font-size: 11pt;
+	font-weight: normal;
+	font-family: 'CMU Serif';
+}
+.S-Bullet_20_Symbols {
+	font-family: OpenSymbol;
+}
+.S-Numbering_20_Symbols {
+}
+.S-Internet_20_link {
+	color: #1a0dab;
+}
+.S-Visited_20_Internet_20_Link {
+	color: #800000;
+}
+.S-Endnote_20_anchor {
+	font-size: 58%;
+	vertical-align: 33%;
+}
+.S-Main_20_index_20_entry {
+	font-weight: bold;
+}
+.S-Job_20_Title {
+	font-weight: bold;
+	background-color: transparent;
+}
+.S-Index_20_Link {
+}
+.S-When {
+	color: #4c4c4c;
+}
+.S-Where {
+}
+.S-City {
+}
+.G-Frame {
+	font-size: 12pt;
+	margin-right: auto;
+	margin-bottom: 0.0791in;
+	padding: 0.0591in;
+	margin-top: 0.0791in;
+	margin-left: auto;
+	font-family: 'Liberation Serif', serif;
+	border: 0.06pt solid #000000;
+}
+.G-Span {
+	font-size: 12pt;
+	margin-right: auto;
+	margin-bottom: 0in;
+	padding: 0in;
+	margin-top: 0in;
+	margin-left: auto;
+	font-family: 'Liberation Serif', serif;
+	border: none;
+}
+.Numbering_20_1_1 {
+	list-style-type: decimal;
+}
+.Numbering_20_1_2 {
+	list-style-type: decimal;
+}
+.Numbering_20_1_3 {
+	list-style-type: decimal;
+}
+.Numbering_20_1_4 {
+	list-style-type: decimal;
+}
+.Numbering_20_1_5 {
+	list-style-type: decimal;
+}
+.Numbering_20_1_6 {
+	list-style-type: decimal;
+}
+.Numbering_20_1_7 {
+	list-style-type: decimal;
+}
+.Numbering_20_1_8 {
+	list-style-type: decimal;
+}
+.Numbering_20_1_9 {
+	list-style-type: decimal;
+}
+.Numbering_20_1_10 {
+	list-style-type: decimal;
+}
+.List_20_1_1 {
+	list-style-type: disc;
+	font-family: OpenSymbol, sans-serif;
+}
+.List_20_1_2 {
+	list-style-type: circle;
+	font-family: OpenSymbol, sans-serif;
+}
+.List_20_1_3 {
+	list-style-type: square;
+	font-family: OpenSymbol, sans-serif;
+}
+.List_20_1_4 {
+	list-style-type: disc;
+	font-family: OpenSymbol, sans-serif;
+}
+.List_20_1_5 {
+	list-style-type: circle;
+	font-family: OpenSymbol, sans-serif;
+}
+.List_20_1_6 {
+	list-style-type: square;
+	font-family: OpenSymbol, sans-serif;
+}
+.List_20_1_7 {
+	list-style-type: disc;
+	font-family: OpenSymbol, sans-serif;
+}
+.List_20_1_8 {
+	list-style-type: circle;
+	font-family: OpenSymbol, sans-serif;
+}
+.List_20_1_9 {
+	list-style-type: square;
+	font-family: OpenSymbol, sans-serif;
+}
+.List_20_1_10 {
+	list-style-type: disc;
+	font-family: OpenSymbol, sans-serif;
+}
+.P-P1 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P2 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P3 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P4 {
+	margin-top: 0in;
+	font-weight: normal;
+	font-size: 130%;
+	font-family: 'CMU Serif';
+	margin-bottom: 0.0402in;
+}
+.P-P5 {
+	margin-top: 0in;
+	font-weight: normal;
+	font-size: 130%;
+	font-family: 'CMU Serif';
+	margin-bottom: 0.0402in;
+}
+.P-P6 {
+	font-size: 130%;
+	font-weight: normal;
+	margin-bottom: 0.0402in;
+	margin-top: 0in;
+	font-family: 'CMU Serif';
+	text-align: justify;
+}
+.P-P7 {
+	font-size: 130%;
+	font-weight: normal;
+	margin-bottom: 0.0402in;
+	margin-top: 0in;
+	font-family: 'CMU Serif';
+	font-style: italic;
+}
+.P-P8 {
+	font-size: 130%;
+	font-weight: normal;
+	margin-bottom: 0.0402in;
+	margin-top: 0in;
+	font-family: 'CMU Serif';
+	font-style: italic;
+}
+.P-P9 {
+	font-variant: small-caps;
+	font-size: 115%;
+	font-weight: normal;
+	font-family: 'CMU Serif';
+	color: #284e42;
+	border-left: none;
+	margin-top: 0.0799in;
+	margin-bottom: 0.0402in;
+	padding: 0.0201in;
+	border-top: none;
+	border-right: none;
+	border-bottom: 0.06pt dotted #284e42;
+}
+.P-P10 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P11 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P12 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P13 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P14 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P15 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P16 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P17 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P18 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P19 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P20 {
+	font-size: 11pt;
+	font-family: CMU Serif, serif;
+	margin-bottom: 0.0201in;
+	margin-top: 0in;
+	font-weight: normal;
+	line-height: 90%;
+}
+.P-P21 {
+	font-variant: small-caps;
+	font-size: 115%;
+	font-weight: normal;
+	font-family: 'CMU Serif';
+	color: #284e42;
+	border-left: none;
+	margin-top: 0.0799in;
+	margin-bottom: 0.0402in;
+	padding: 0.0201in;
+	border-top: none;
+	border-right: none;
+	border-bottom: 0.06pt dotted #284e42;
+}
+.P-P22 {
+	font-size: 130%;
+	font-weight: normal;
+	margin-bottom: 0.0402in;
+	margin-top: 0in;
+	font-family: 'CMU Serif';
+	font-style: italic;
+}
+.P-P23 {
+	font-size: 130%;
+	font-weight: normal;
+	margin-bottom: 0.0402in;
+	margin-top: 0in;
+	font-family: 'CMU Serif';
+	text-align: justify;
+}
+.S-T1 {
+	font-style: italic;
+}
+.S-T2 {
+}
+.S-T3 {
+	font-weight: bold;
+}
+.S-T4 {
+	font-family: 'CMU Typewriter Text', Monospace, monospace;
+}
+.S-T5 {
+}
+.S-T6 {
+}
+.S-T7 {
+	color: #999999;
+}
+.S-T8 {
+	color: #999999;
+}
+.S-T9 {
+}
+.S-T10 {
+}
+.S-T11 {
+}
+.G-fr1 {
+	font-size: 12pt;
+	margin-right: auto;
+	margin-bottom: 0in;
+	padding: 0in;
+	margin-top: 0in;
+	margin-left: auto;
+	font-family: 'Liberation Serif', serif;
+	border: none;
+}
+.L1_1 {
+	list-style-type: disc;
+}
+.L1_2 {
+	list-style-type: circle;
+}
+.L1_3 {
+	list-style-type: square;
+}
+.L1_4 {
+	list-style-type: disc;
+}
+.L1_5 {
+	list-style-type: circle;
+}
+.L1_6 {
+	list-style-type: square;
+}
+.L1_7 {
+	list-style-type: disc;
+}
+.L1_8 {
+	list-style-type: circle;
+}
+.L1_9 {
+	list-style-type: square;
+}
+.L1_10 {
+	list-style-type: disc;
+}
+.L2_1 {
+	list-style-type: disc;
+}
+.L2_2 {
+	list-style-type: circle;
+}
+.L2_3 {
+	list-style-type: square;
+}
+.L2_4 {
+	list-style-type: disc;
+}
+.L2_5 {
+	list-style-type: circle;
+}
+.L2_6 {
+	list-style-type: square;
+}
+.L2_7 {
+	list-style-type: disc;
+}
+.L2_8 {
+	list-style-type: circle;
+}
+.L2_9 {
+	list-style-type: square;
+}
+.L2_10 {
+	list-style-type: disc;
+}
+.L3_1 {
+	list-style-type: disc;
+}
+.L3_2 {
+	list-style-type: circle;
+}
+.L3_3 {
+	list-style-type: square;
+}
+.L3_4 {
+	list-style-type: disc;
+}
+.L3_5 {
+	list-style-type: circle;
+}
+.L3_6 {
+	list-style-type: square;
+}
+.L3_7 {
+	list-style-type: disc;
+}
+.L3_8 {
+	list-style-type: circle;
+}
+.L3_9 {
+	list-style-type: square;
+}
+.L3_10 {
+	list-style-type: disc;
+}
+.L4_1 {
+	list-style-type: disc;
+}
+.L4_2 {
+	list-style-type: circle;
+}
+.L4_3 {
+	list-style-type: square;
+}
+.L4_4 {
+	list-style-type: disc;
+}
+.L4_5 {
+	list-style-type: circle;
+}
+.L4_6 {
+	list-style-type: square;
+}
+.L4_7 {
+	list-style-type: disc;
+}
+.L4_8 {
+	list-style-type: circle;
+}
+.L4_9 {
+	list-style-type: square;
+}
+.L4_10 {
+	list-style-type: disc;
+}
+.L5_1 {
+	list-style-type: disc;
+}
+.L5_2 {
+	list-style-type: circle;
+}
+.L5_3 {
+	list-style-type: square;
+}
+.L5_4 {
+	list-style-type: disc;
+}
+.L5_5 {
+	list-style-type: circle;
+}
+.L5_6 {
+	list-style-type: square;
+}
+.L5_7 {
+	list-style-type: disc;
+}
+.L5_8 {
+	list-style-type: circle;
+}
+.L5_9 {
+	list-style-type: square;
+}
+.L5_10 {
+	list-style-type: disc;
+}
+.L6_1 {
+	list-style-type: disc;
+}
+.L6_2 {
+	list-style-type: circle;
+}
+.L6_3 {
+	list-style-type: square;
+}
+.L6_4 {
+	list-style-type: disc;
+}
+.L6_5 {
+	list-style-type: circle;
+}
+.L6_6 {
+	list-style-type: square;
+}
+.L6_7 {
+	list-style-type: disc;
+}
+.L6_8 {
+	list-style-type: circle;
+}
+.L6_9 {
+	list-style-type: square;
+}
+.L6_10 {
+	list-style-type: disc;
+}
+.L7_1 {
+	list-style-type: disc;
+}
+.L7_2 {
+	list-style-type: circle;
+}
+.L7_3 {
+	list-style-type: square;
+}
+.L7_4 {
+	list-style-type: disc;
+}
+.L7_5 {
+	list-style-type: circle;
+}
+.L7_6 {
+	list-style-type: square;
+}
+.L7_7 {
+	list-style-type: disc;
+}
+.L7_8 {
+	list-style-type: circle;
+}
+.L7_9 {
+	list-style-type: square;
+}
+.L7_10 {
+	list-style-type: disc;
+}
+.L8_1 {
+	list-style-type: disc;
+}
+.L8_2 {
+	list-style-type: circle;
+}
+.L8_3 {
+	list-style-type: square;
+}
+.L8_4 {
+	list-style-type: disc;
+}
+.L8_5 {
+	list-style-type: circle;
+}
+.L8_6 {
+	list-style-type: square;
+}
+.L8_7 {
+	list-style-type: disc;
+}
+.L8_8 {
+	list-style-type: circle;
+}
+.L8_9 {
+	list-style-type: square;
+}
+.L8_10 {
+	list-style-type: disc;
+}
+.PL-Mpm1 {
+	margin-left: 0.5in;
+	height: 11in;
+	width: 8.5in;
+	margin-top: 0.5in;
+	margin-right: 0.5in;
+	margin-bottom: 0.5in;
+}
+.MP-Standard {
+	margin-right: 0.5in;
+	height: 11in;
+	width: 8.5in;
+	margin-top: 0.5in;
+	margin-left: 0.5in;
+	position: relative;
+	margin-bottom: 0.5in;
+}
+body {
+	position: relative;
+	width: 7.5in;
+	margin: .5in;
+}
+html {
+	width: 8.5in;
+}
+.S-City {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.S-When {
+	float: right;
+	margin-right: 1.5in;
+	bottom: 0;
+}
+.P-Job {
+	position: relative;
+}
+.P-Job:after {
+	content: " ";
+	display: block;
+	height: 0;
+	clear: both;
+}
+* {
+	background-color: transparent;
+}
+h1.P-P4 {
+	position: relative;
+	margin-bottom: -1.3em;
+}
+h1.P-P4:after {
+	display: inline-block;
+	content: "";
+	width: 100%;
+}
+h1.P-P4 > * {
+	display: inline-block;
+	position: relative;
+}
+@font-face{
+    font-family: "CMU Serif";
+    src: url("resume-subset/cmunbx.eot");
+    font-weight: bold;font-style: normal;
+}
+@font-face{
+    font-family: "CMU Serif";
+    src: local("CMU Serif"),
+        url("resume-subset/cmunbx.eot") format('eot'),
+        url("resume-subset/cmunbx.woff") format('woff'),
+        url("resume-subset/cmunbx.otf") format('otf'),
+        url("resume-subset/cmunbx.ttf") format('truetype'),
+        url("resume-subset/cmunbx.svg") format('svg');
+    font-weight: bold;font-style: normal;
+}
+@font-face{
+    font-family: "CMU Serif";
+    src: url("resume-subset/cmunbi.eot");
+    font-weight: bold;font-style: italic;
+}
+@font-face{
+    font-family: "CMU Serif";
+    src: local("CMU Serif"),
+        url("resume-subset/cmunbi.eot") format('eot'),
+        url("resume-subset/cmunbi.woff") format('woff'),
+        url("resume-subset/cmunbi.otf") format('otf'),
+        url("resume-subset/cmunbi.ttf") format('truetype'),
+        url("resume-subset/cmunbi.svg") format('svg');
+    font-weight: bold;font-style: italic;
+}
+@font-face{
+    font-family: "CMU Serif";
+    src: url("resume-subset/cmunrm.eot");
+    font-style: normal;
+}
+@font-face{
+    font-family: "CMU Serif";
+    src: local("CMU Serif"),
+        url("resume-subset/cmunrm.eot") format('eot'),
+        url("resume-subset/cmunrm.woff") format('woff'),
+        url("resume-subset/cmunrm.otf") format('otf'),
+        url("resume-subset/cmunrm.ttf") format('truetype'),
+        url("resume-subset/cmunrm.svg") format('svg');
+    font-style: normal;
+}
+@font-face{
+    font-family: "CMU Serif";
+    src: url("resume-subset/cmunti.eot");
+    font-style: italic;
+}
+@font-face{
+    font-family: "CMU Serif";
+    src: local("CMU Serif"),
+        url("resume-subset/cmunti.eot") format('eot'),
+        url("resume-subset/cmunti.woff") format('woff'),
+        url("resume-subset/cmunti.otf") format('otf'),
+        url("resume-subset/cmunti.ttf") format('truetype'),
+        url("resume-subset/cmunti.svg") format('svg');
+    font-style: italic;
+}
+/*]]>*/
+</style>
+</head>
+<body>
+<h1 class="P-P6"><span class="S-T1"><div style="" class="G-fr1"><div><h1 class="P-P8">Ted Ying<a id="anchor001"></a></h1>
+</div>
+</div>
+</span><span class="S-T1"></span>&#160;<a href="mailto:ted@yingted.com?subject=Re:%20R&#233;sum&#233;"><span class="S-T10">ted</span></a><span class="S-T10">@</span><a href="http://tiny.cc/i4mimx"><span class="S-T10">yingted.com</span></a>&#160;<span class="S-T2"><div style="" class="G-fr1"><div><h1>(647) 624-1168<a id="anchor002"></a></h1>
+</div>
+</div>
+</span><span class="S-T2"></span>&#160;<a href="http://tiny.cc/ud1gmx"><span class="S-T2">github.com/yingted</span></a><a id="anchor003"></a></h1>
+<h2 class="P-P9">Work Experience<a id="anchor004"></a></h2>
+<p class="P-Job"><span class="S-Job_20_Title">Full-stack Engineering Developer</span>, <span class="S-Where">Remind</span><span class="S-Where"><span class="S-T11">101</span></span><span class="S-Where"> </span><span class="S-When"><span class="S-T11">May &#8211; Sept.</span></span><span class="S-When"> 2014</span> <span class="S-City">San Francisco, CA</span></p>
+<ul class="L1_1"><li><p class="P-P10">Wrote new message sender, which has processed over half a billion events for 7 communication services and 3 encodings</p>
+</li>
+<li><p class="P-P11">Added end-to-end Unicode support (e.g. for accented characters and emoji)</p>
+</li>
+<li><p class="P-P11">Implemented Kafka and Zookeeper consumer partition rebalancing protocol in Node.js</p>
+</li>
+<li><p class="P-P19">Worked on AngularJS front-end</p>
+</li>
+<li><p class="P-P19">Fixed bugs and identified vulnerabilities</p>
+</li>
+<li><p class="P-P10">Implemented optimizations reducing page load time from 13 s to 5 s <span class="S-T6">for users</span> on <span class="S-T11">slow connections</span></p>
+</li>
+<li><p class="P-P10">Authored a metrics service capable of 360,000 requests per minute on Heroku's free tier</p>
+</li>
+</ul>
+<p class="P-Job"><span class="S-Job_20_Title">Undergraduate Research Assistant</span>, <span class="S-Where">University of Waterloo</span> <span class="S-When"><span class="S-T11">Jan. &#8211; Apr.</span></span><span class="S-When"> 2014</span> <span class="S-City">Waterloo, ON</span></p>
+<ul class="L2_1"><li><p class="P-P12">Developed fluid animation simulator using spatial data structures <span class="S-T11">based on regular triangulations</span></p>
+</li>
+<li><p class="P-P20">Checked algorithm correctness using CGAL (exact computational geometry in C++ templates)</p>
+</li>
+</ul>
+<p class="P-Job"><span class="S-Job_20_Title">Developer</span>, <span class="S-Where">Weinreb Ventures</span> <span class="S-When"><span class="S-T11">June &#8211; Aug.</span></span><span class="S-When"> 2013</span> <span class="S-City">Mississauga, ON</span></p>
+<ul class="L3_1"><li><p class="P-P13">Added form validation and input sanitization</p>
+</li>
+</ul>
+<p class="P-Job"><span class="S-Job_20_Title">Head of Technology</span>, <span class="S-T11">Multiple Sclerosis</span><span class="S-Where"> Mississauga YC</span> <span class="S-When"><span class="S-T11">Sept.</span></span><span class="S-When"> 2012 &#8211; </span><span class="S-When"><span class="S-T11">June</span></span><span class="S-When"> 2013</span> <span class="S-City">Mississauga, ON</span></p>
+<ul class="L4_1"><li><p class="P-P14">Created a <a href="http://tiny.cc/fe1gmx">website</a> for event information using Django on Google App Engine</p>
+</li>
+</ul>
+<h2>Skills<a id="anchor005"></a></h2>
+<ul class="L5_1"><li><p class="P-P15">Languages: <span class="S-T3">Python, JavaScript, Java, C, Bash</span>, <span class="S-T3">C++</span>, <span class="S-T3">HTML</span>, <span class="S-T3">SASS</span>/<span class="S-T3">CSS</span>, and <span class="S-T3">Lua</span></p>
+</li>
+</ul>
+<h2>Activities and Interests<a id="anchor006"></a></h2>
+<ul class="L6_1"><li><p class="P-P16">Ran in-school programming competitions for <span class="S-T11">high school </span>computer science club</p>
+<ul class="L6_2"><li><p class="P-P16">Ported <a href="http://tiny.cc/7h1gmx">Turing language </a><a href="http://tiny.cc/7h1gmx"><span class="S-T9">VM and runtime</span></a> (written in C) to GNU/Linux</p>
+</li>
+<li><p class="P-P16">Designed and developed <a href="http://tiny.cc/rk1gmx">online grader</a> for practice CS competitions</p>
+<ul class="L6_3"><li><p class="P-P16">Uses ACE (editor), jQuery, Python, LXC (virtualization), and libseccomp (sandbox)</p>
+</li>
+</ul>
+</li>
+<li><p class="P-P16"><a href="http://tiny.cc/hn1gmx">Tron game server</a>, clients, example bots, and game recording viewer</p>
+<ul class="L6_3"><li><p class="P-P16">Uses Twisted (Python evented networking), and Shed Skin (compiler)</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p class="P-P16"><a href="http://tiny.cc/oo1gmx">Android app</a> for Teredo (IPv6) tunnelling</p>
+<ul class="L6_2"><li><p class="P-P16">Uses mksh, pthreads, and bionic libc</p>
+</li>
+</ul>
+</li>
+<li><p class="P-P16">Android app that finds a shortest indoor path between two floors in any two buildings </p>
+</li>
+<li><p class="P-P16">Competitive algorithmic programmer:</p>
+<ul class="L6_2"><li><p class="P-P16">Google Code Jam Online Round 2 Qualifier 2014 (username: <span class="S-T4">be6bc04805fcbbd1c403f6e9ff9ff6</span>)</p>
+</li>
+<li><p class="P-P16">Two times Silver Medallist (top 10 in Canada) in the Canadian Computing Competition</p>
+</li>
+<li><p class="P-P16">ECOO team placed first in Ontario</p>
+</li>
+</ul>
+</li>
+<li><p class="P-P16">Interests: reading, skating, and skiing</p>
+</li>
+</ul>
+<h2>Education<a id="anchor007"></a></h2>
+<p class="P-Job"><span class="S-Job_20_Title">Candidate for Bachelor of Software Engineering</span>, <span class="S-Where">University of Waterloo</span>   <span class="S-When">Sept. 2013 &#8211; present</span> <span class="S-City">Waterloo, ON</span></p>
+<ul class="L7_1"><li><p class="P-P17">Developed an IR sensor driver using high dynamic range for robot navigation</p>
+</li>
+</ul>
+<p class="P-Job"><span class="S-Job_20_Title">High School Diploma</span>, <span class="S-Where">The Woodlands School</span> <span class="S-When">June 2013</span> <span class="S-City">Mississauga, ON</span></p>
+<ul class="L8_1"><li><p class="P-P18">Implemented and optimized a 3D renderer in the Turing language</p>
+</li>
+</ul>
+</body>
+</html>
