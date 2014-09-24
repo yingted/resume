@@ -28,16 +28,16 @@ html {
 * {
 	background-color: transparent;
 }
-h1.P-P4 {
-	position: relative;
-	margin-bottom: -1.3em;
+body > h1 {
+	position: relative !important;
+	margin-bottom: -1.3em !important;
 }
-h1.P-P4:after {
-	display: inline-block;
-	content: "";
-	width: 100%;
+body > h1:after {
+	display: inline-block !important;
+	content: "" !important;
+	width: 100% !important;
 }
-h1.P-P4 > * {
-	display: inline-block;
-	position: relative;
+body > h1 > * {
+	display: inline-block !important;
+	position: relative !important;
 }
