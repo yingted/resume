@@ -969,7 +969,7 @@
       </draw:text-box>
      </draw:frame></text:span><text:span text:style-name="T2"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="http://tiny.cc/ud1gmx"><text:span text:style-name="T2">github.com/yingted</text:span></text:a></text:h>
    <text:h text:style-name="P7" text:outline-level="2">Work Experience</text:h>
-   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Full-stack Engineering Developer</text:span>, <text:span text:style-name="Where">Remind</text:span><text:span text:style-name="Where"><text:span text:style-name="T11">101</text:span></text:span><text:span text:style-name="Where"><text:tab/></text:span><text:span text:style-name="When"><text:span text:style-name="T11">May – Sept.</text:span></text:span><text:span text:style-name="When"> 2014</text:span><text:tab/><text:span text:style-name="City">San Francisco, CA</text:span></text:p>
+   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Full-stack Engineering Developer</text:span>, <text:span text:style-name="Where">Remind101</text:span><text:tab/><text:span text:style-name="When">May – Sept. 2014</text:span><text:tab/><text:span text:style-name="City">San Francisco, CA</text:span></text:p>
    <text:list xml:id="list3174309221725044445" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P8">Wrote new message sender, which has processed over half a billion events for 7 communication services and 3 encodings</text:p>
@@ -993,7 +993,7 @@
      <text:p text:style-name="P8">Authored a metrics service capable of 360,000 requests per minute on Heroku&apos;s free tier</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Undergraduate Research Assistant</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:span text:style-name="When"><text:span text:style-name="T11">Jan. – Apr.</text:span></text:span><text:span text:style-name="When"> 2014</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
+   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Undergraduate Research Assistant</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:span text:style-name="When">Jan. – Apr. 2014</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
    <text:list xml:id="list6384180162870039100" text:style-name="L2">
     <text:list-item>
      <text:p text:style-name="P10">Developed fluid animation simulator using spatial data structures <text:span text:style-name="T11">based on regular triangulations</text:span></text:p>
@@ -1002,13 +1002,13 @@
      <text:p text:style-name="P18">Checked algorithm correctness using CGAL (exact computational geometry in C++ templates)</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Developer</text:span>, <text:span text:style-name="Where">Weinreb Ventures</text:span><text:tab/><text:span text:style-name="When"><text:span text:style-name="T11">June – Aug.</text:span></text:span><text:span text:style-name="When"> 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
+   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Developer</text:span>, <text:span text:style-name="Where">Weinreb Ventures</text:span><text:tab/><text:span text:style-name="When">June – Aug. 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
    <text:list xml:id="list8052871432599239166" text:style-name="L3">
     <text:list-item>
      <text:p text:style-name="P11">Added form validation and input sanitization</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Head of Technology</text:span>, <text:span text:style-name="T11">Multiple Sclerosis</text:span><text:span text:style-name="Where"> Mississauga YC</text:span><text:tab/><text:span text:style-name="When"><text:span text:style-name="T11">Sept.</text:span></text:span><text:span text:style-name="When"> 2012 – </text:span><text:span text:style-name="When"><text:span text:style-name="T11">June</text:span></text:span><text:span text:style-name="When"> 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
+   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Head of Technology</text:span>, <text:span text:style-name="T11">Multiple Sclerosis</text:span><text:span text:style-name="Where"> Mississauga YC</text:span><text:tab/><text:span text:style-name="When">Sept. 2012 – June 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
    <text:list xml:id="list6443151801291045287" text:style-name="L4">
     <text:list-item>
      <text:p text:style-name="P12">Created a <text:a xlink:type="simple" xlink:href="http://tiny.cc/fe1gmx">website</text:a> for event information using Django on Google App Engine</text:p>
