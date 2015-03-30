@@ -4,16 +4,16 @@
  <office:meta>
     <meta:initial-creator>Ted Ying</meta:initial-creator>
     <meta:creation-date>2014-09-17T00:25:40.555990324</meta:creation-date>
-    <dc:date>2015-03-04T22:57:31.386655121</dc:date>
+    <dc:date>2015-03-04T23:21:53.974781476</dc:date>
     <dc:creator>Ted Ying</dc:creator>
     <meta:editing-duration>PT2H41M4S</meta:editing-duration>
-    <meta:editing-cycles>106</meta:editing-cycles>
+    <meta:editing-cycles>107</meta:editing-cycles>
     
     <meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator>
-  <meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="43" meta:word-count="400" meta:character-count="2615" meta:non-whitespace-character-count="2273"/></office:meta>
+  <meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="44" meta:word-count="414" meta:character-count="2717" meta:non-whitespace-character-count="2362"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">1937</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">29633</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">29238</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">11511</config:config-item>
@@ -22,12 +22,12 @@
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">15845</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">4521</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">23735</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">32249</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">1937</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">29633</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">29236</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">13446</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">41143</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -91,7 +91,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">5386479</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5415320</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -417,15 +417,8 @@
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="0050bea6" officeooo:paragraph-rsid="0050bea6"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:paragraph-properties>
-    <style:tab-stops>
-     <style:tab-stop style:position="1.0083in"/>
-     <style:tab-stop style:position="3.1984in"/>
-     <style:tab-stop style:position="7.2in" style:type="right"/>
-    </style:tab-stops>
-   </style:paragraph-properties>
-   <style:text-properties officeooo:paragraph-rsid="00131d6b"/>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="005230ef" officeooo:paragraph-rsid="005230ef"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties>
@@ -435,15 +428,25 @@
      <style:tab-stop style:position="7.2in" style:type="right"/>
     </style:tab-stops>
    </style:paragraph-properties>
-   <style:text-properties officeooo:paragraph-rsid="004880f0"/>
+   <style:text-properties officeooo:paragraph-rsid="00131d6b"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="1.0083in"/>
+     <style:tab-stop style:position="3.1984in"/>
+     <style:tab-stop style:position="7.2in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="004880f0"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="justify" fo:text-align-last="justify" style:justify-single-word="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="004880f0"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties>
     <style:tab-stops>
      <style:tab-stop style:position="1.0083in"/>
@@ -453,68 +456,71 @@
    </style:paragraph-properties>
    <style:text-properties fo:font-style="italic" officeooo:rsid="00131d6b" officeooo:paragraph-rsid="004880f0" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties>
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:font-style="italic" officeooo:rsid="00131d6b" officeooo:paragraph-rsid="004880f0" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="00133d00"/>
   </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Job">
+   <style:text-properties officeooo:paragraph-rsid="005230ef"/>
   </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="0050bea6"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
-   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
-   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
-   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
-   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
-   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="0050bea6" officeooo:paragraph-rsid="0050bea6"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="0050bea6" officeooo:paragraph-rsid="0050bea6"/>
-  </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="005230ef" officeooo:paragraph-rsid="005230ef"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="00133d00"/>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="0050bea6"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+   <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0050bea6" officeooo:paragraph-rsid="0050bea6"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="0050bea6" officeooo:paragraph-rsid="0050bea6"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+   <style:text-properties officeooo:rsid="0052a198" officeooo:paragraph-rsid="0052a198"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties>
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:font-style="italic" officeooo:rsid="00131d6b" officeooo:paragraph-rsid="004880f0" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="justify" fo:text-align-last="justify" style:justify-single-word="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="004880f0"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Job">
-   <style:text-properties officeooo:paragraph-rsid="005230ef"/>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00133d00"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="italic" officeooo:rsid="00131d6b" style:font-style-asian="italic" style:font-style-complex="italic"/>
@@ -993,139 +999,142 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:h text:style-name="P6" text:outline-level="1"><text:span text:style-name="T1"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" draw:z-index="0">
+   <text:h text:style-name="P7" text:outline-level="1"><text:span text:style-name="T1"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" draw:z-index="0">
       <draw:text-box fo:min-height="0.0201in" fo:min-width="0.0201in">
-       <text:h text:style-name="P8" text:outline-level="1">Ted Ying</text:h>
+       <text:h text:style-name="P9" text:outline-level="1">Ted Ying</text:h>
       </draw:text-box>
      </draw:frame></text:span><text:span text:style-name="T1"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="mailto:ted@yingted.com?subject=Re:%20Résumé"><text:span text:style-name="T11">ted</text:span></text:a><text:span text:style-name="T11">@</text:span><text:a xlink:type="simple" xlink:href="http://tiny.cc/i4mimx"><text:span text:style-name="T11">yingted.com</text:span></text:a> <text:s/><text:span text:style-name="T2"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" draw:z-index="1">
       <draw:text-box fo:min-height="0.0201in" fo:min-width="0.0201in">
        <text:h text:style-name="Heading_20_1" text:outline-level="1">(647) 624-1168</text:h>
       </draw:text-box>
      </draw:frame></text:span><text:span text:style-name="T2"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="http://tiny.cc/ud1gmx"><text:span text:style-name="T2">github.com/yingted</text:span></text:a></text:h>
-   <text:h text:style-name="P9" text:outline-level="2">Work Experience</text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="Job_20_Title">Developer</text:span>, <text:span text:style-name="Where"><text:span text:style-name="T13">Bloomberg</text:span></text:span><text:tab/><text:span text:style-name="When"><text:span text:style-name="T13">(expected) Jan</text:span></text:span><text:span text:style-name="When"> – </text:span><text:span text:style-name="When"><text:span text:style-name="T13">May</text:span></text:span><text:span text:style-name="When"> 201</text:span><text:span text:style-name="When"><text:span text:style-name="T13">5</text:span></text:span><text:tab/><text:span text:style-name="T13">New York</text:span><text:span text:style-name="City">, </text:span><text:span text:style-name="City"><text:span text:style-name="T13">NY</text:span></text:span></text:p>
-   <text:list xml:id="list5451591769807865205" text:style-name="L1">
+   <text:h text:style-name="P10" text:outline-level="2">Work Experience</text:h>
+   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Developer</text:span>, <text:span text:style-name="Where">Bloomberg</text:span><text:tab/><text:span text:style-name="When">(expected) Jan – May 2015</text:span><text:tab/><text:span text:style-name="City">New York, NY</text:span></text:p>
+   <text:list xml:id="list2053413712269658199" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P21">Developed recommendation engine in Python and C++</text:p>
+     <text:p text:style-name="P12">Developed recommendation engine in Python and C++</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Full-stack Engineering Developer</text:span>, <text:span text:style-name="Where">Remind101</text:span><text:tab/><text:span text:style-name="When">May – Sept. 2014</text:span><text:tab/><text:span text:style-name="City">San Francisco, CA</text:span></text:p>
-   <text:list xml:id="list225731938362479" text:continue-numbering="true" text:style-name="L1">
+   <text:list xml:id="list232157136251873" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P10">Wrote new message sender, which has processed over half a billion events for 7 communication services and 3 encodings</text:p>
+     <text:p text:style-name="P13">Wrote new message sender, which has processed over half a billion events for 7 communication services and 3 encodings</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">Added end-to-end Unicode support (e.g. for accented characters and emoji)</text:p>
+     <text:p text:style-name="P14">Added end-to-end Unicode support (e.g. for accented characters and emoji)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">Implemented Kafka and Zookeeper consumer partition rebalancing protocol in Node.js</text:p>
+     <text:p text:style-name="P14">Implemented Kafka and Zookeeper consumer partition rebalancing protocol in Node.js</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P19">Worked on AngularJS front-end</text:p>
+     <text:p text:style-name="P22">Worked on AngularJS front-end</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P19">Fixed bugs and identified vulnerabilities</text:p>
+     <text:p text:style-name="P22">Fixed bugs and identified vulnerabilities</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10">Implemented optimizations reducing page load time from 13 s to 5 s <text:span text:style-name="T7">for users</text:span> on <text:span text:style-name="T12">slow connections</text:span></text:p>
+     <text:p text:style-name="P13">Implemented optimizations reducing page load time from 13 s to 5 s <text:span text:style-name="T7">for users</text:span> on <text:span text:style-name="T12">slow connections</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P10">Authored a metrics service capable of 360,000 requests per minute on Heroku&apos;s free tier</text:p>
+     <text:p text:style-name="P13">Authored a metrics service capable of 360,000 requests per minute on Heroku&apos;s free tier</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Undergraduate Research Assistant</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:span text:style-name="When">Jan. – Apr. 2014</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
-   <text:list xml:id="list1317144397605400726" text:style-name="L2">
+   <text:list xml:id="list8057478291105595657" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P12">Developed fluid animation simulator using spatial data structures <text:span text:style-name="T12">based on regular triangulations</text:span></text:p>
+     <text:p text:style-name="P15">Developed fluid animation simulator using spatial data structures <text:span text:style-name="T12">based on regular triangulations</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P20">Checked algorithm correctness using CGAL (exact computational geometry in C++ templates)</text:p>
+     <text:p text:style-name="P23">Checked algorithm correctness using CGAL (exact computational geometry in C++ templates)</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Developer</text:span>, <text:span text:style-name="Where">Weinreb Ventures</text:span><text:tab/><text:span text:style-name="When">June – Aug. 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list3606919580146974697" text:style-name="L3">
+   <text:list xml:id="list885709330798432890" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P13">Added form validation and input sanitization</text:p>
+     <text:p text:style-name="P16">Added form validation and input sanitization</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Head of Technology</text:span>, <text:span text:style-name="T12">Multiple Sclerosis</text:span><text:span text:style-name="Where"> Mississauga YC</text:span><text:tab/><text:span text:style-name="When">Sept. 2012 – June 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list7621209746041027906" text:style-name="L4">
+   <text:list xml:id="list8913846182809543627" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P14">Created a <text:a xlink:type="simple" xlink:href="http://tiny.cc/fe1gmx">website</text:a> for event information using Django on Google App Engine</text:p>
+     <text:p text:style-name="P17">Created a <text:a xlink:type="simple" xlink:href="http://tiny.cc/fe1gmx">website</text:a> for event information using Django on Google App Engine</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Skills</text:h>
-   <text:list xml:id="list6705213813298697964" text:style-name="L5">
+   <text:list xml:id="list8588675609765536176" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P15">Languages: <text:span text:style-name="T3">Python, JavaScript, Java, C, Bash</text:span>, <text:span text:style-name="T3">C++</text:span>, <text:span text:style-name="T3">HTML</text:span>, <text:span text:style-name="T3">SASS</text:span>/<text:span text:style-name="T3">CSS</text:span>, and <text:span text:style-name="T3">Lua</text:span></text:p>
+     <text:p text:style-name="P18">Languages: <text:span text:style-name="T3">Python, JavaScript, Java, C, Bash</text:span>, <text:span text:style-name="T3">C++</text:span>, <text:span text:style-name="T3">HTML</text:span>, <text:span text:style-name="T3">SASS</text:span>/<text:span text:style-name="T3">CSS</text:span>, and <text:span text:style-name="T3">Lua</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Activities and Interests</text:h>
-   <text:list xml:id="list8564434628191118694" text:style-name="L6">
+   <text:list xml:id="list4577149728337863140" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P16">Ran in-school programming competitions for <text:span text:style-name="T12">high school </text:span>computer science club</text:p>
+     <text:p text:style-name="P19">Ran in-school programming competitions for <text:span text:style-name="T12">high school </text:span>computer science club</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P16">Ported <text:a xlink:type="simple" xlink:href="http://tiny.cc/7h1gmx">Turing language </text:a><text:a xlink:type="simple" xlink:href="http://tiny.cc/7h1gmx"><text:span text:style-name="T10">VM and runtime</text:span></text:a> (written in C) to GNU/Linux</text:p>
+       <text:p text:style-name="P19">Ported <text:a xlink:type="simple" xlink:href="http://tiny.cc/7h1gmx">Turing language </text:a><text:a xlink:type="simple" xlink:href="http://tiny.cc/7h1gmx"><text:span text:style-name="T10">VM and runtime</text:span></text:a> (written in C) to GNU/Linux</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P16">Designed and developed <text:a xlink:type="simple" xlink:href="http://tiny.cc/rk1gmx">online grader</text:a> for practice CS competitions</text:p>
+       <text:p text:style-name="P19">Designed and developed <text:a xlink:type="simple" xlink:href="http://tiny.cc/rk1gmx">online grader</text:a> for practice CS competitions</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P16">Uses ACE (editor), jQuery, Python, LXC (virtualization), and libseccomp (sandbox)</text:p>
+         <text:p text:style-name="P19">Uses ACE (editor), jQuery, Python, LXC (virtualization), and libseccomp (sandbox)</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P16"><text:a xlink:type="simple" xlink:href="http://tiny.cc/hn1gmx">Tron game server</text:a>, clients, example bots, and game recording viewer</text:p>
+       <text:p text:style-name="P19"><text:a xlink:type="simple" xlink:href="http://tiny.cc/hn1gmx">Tron game server</text:a>, clients, example bots, and game recording viewer</text:p>
        <text:list>
         <text:list-item>
-         <text:p text:style-name="P16">Uses Twisted (Python evented networking), and Shed Skin (compiler)</text:p>
+         <text:p text:style-name="P19">Uses Twisted (Python evented networking), and Shed Skin (compiler)</text:p>
         </text:list-item>
        </text:list>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16"><text:a xlink:type="simple" xlink:href="http://tiny.cc/oo1gmx">Android app</text:a> for Teredo (IPv6) tunnelling</text:p>
+     <text:p text:style-name="P19"><text:a xlink:type="simple" xlink:href="http://tiny.cc/oo1gmx">Android app</text:a> for Teredo (IPv6) tunnelling</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P16">Uses mksh, pthreads, and bionic libc</text:p>
+       <text:p text:style-name="P19">Uses mksh, pthreads, and bionic libc</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16">Android app that finds a shortest indoor path between two floors in any two buildings<text:tab/></text:p>
+     <text:p text:style-name="P19">Android app that finds a shortest indoor path between two floors in any two buildings<text:tab/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16">Competitive algorithmic programmer:</text:p>
+     <text:p text:style-name="P19">Competitive algorithmic programmer:</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P16">Google Code Jam Online Round 2 Qualifier 2014 (username: <text:span text:style-name="T5">yingted</text:span>)</text:p>
+       <text:p text:style-name="P19">Google Code Jam Online Round 2 Qualifier 2014 (username: <text:span text:style-name="T5">yingted</text:span>)</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P16">Two times Silver Medallist (top 10 in Canada) in the Canadian Computing Competition</text:p>
+       <text:p text:style-name="P19">Two times Silver Medallist (top 10 in Canada) in the Canadian Computing Competition</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P16">ECOO team placed first in Ontario</text:p>
+       <text:p text:style-name="P19">ECOO team placed first in Ontario</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16">Interests: reading, skating, and skiing</text:p>
+     <text:p text:style-name="P19">Interests: reading, skating, and skiing</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Education</text:h>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Candidate for Bachelor of Software Engineering</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:tab/><text:tab/><text:span text:style-name="When">Sept. 2013 – present</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
-   <text:list xml:id="list1444331760668539131" text:style-name="L7">
+   <text:list xml:id="list1707034119130096146" text:style-name="L7">
     <text:list-item>
-     <text:p text:style-name="P17">Developed an IR sensor driver using high dynamic range for robot navigation</text:p>
+     <text:p text:style-name="P24">Prize-winning compiler, featuring self-extracting code, 3 – 4 times more compact than the second-best</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P20">Developed an IR sensor driver using high dynamic range for robot navigation</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">High School Diploma</text:span>, <text:span text:style-name="Where">The Woodlands School</text:span><text:tab/><text:span text:style-name="When">June 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list3275788762630502083" text:style-name="L8">
+   <text:list xml:id="list5288203703601383750" text:style-name="L8">
     <text:list-item>
-     <text:p text:style-name="P18">Implemented and optimized a 3D renderer in the Turing language</text:p>
+     <text:p text:style-name="P21">Implemented and optimized a 3D renderer in the Turing language</text:p>
     </text:list-item>
    </text:list>
   </office:text>
