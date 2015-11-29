@@ -4,30 +4,30 @@
  <office:meta>
     <meta:initial-creator>Ted Ying</meta:initial-creator>
     <meta:creation-date>2014-09-17T00:25:40.555990324</meta:creation-date>
-    <dc:date>2015-05-25T01:07:13.423286027</dc:date>
+    <dc:date>2015-11-28T21:58:24.468109958</dc:date>
     <dc:creator>Ted Ying</dc:creator>
-    <meta:editing-duration>PT2H41M4S</meta:editing-duration>
-    <meta:editing-cycles>108</meta:editing-cycles>
+    <meta:editing-duration>P1DT7H47M40S</meta:editing-duration>
+    <meta:editing-cycles>116</meta:editing-cycles>
     
-    <meta:generator>LibreOffice/4.2.8.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator>
-  <meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="44" meta:word-count="413" meta:character-count="2706" meta:non-whitespace-character-count="2352"/></office:meta>
+    <meta:generator>LibreOffice/4.4.6.3$Linux_X86_64 LibreOffice_project/40$Build-3</meta:generator>
+  <meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="47" meta:word-count="461" meta:character-count="3021" meta:non-whitespace-character-count="2623"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">101</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">29238</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">11511</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">28291</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">11402</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">17625</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3909</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">23213</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">5135</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">101</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">29236</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">11610</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">28289</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">11400</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -45,6 +45,7 @@
    <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
@@ -91,7 +92,7 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">5531817</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5610808</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
@@ -120,7 +121,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -155,17 +158,17 @@
    <style:text-properties style:font-name="CMU Serif" fo:font-family="&apos;CMU Serif&apos;" style:font-style-name="Roman" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="11pt" fo:font-weight="normal" style:font-size-asian="10.5pt" style:font-weight-asian="normal"/>
   </style:style>
   <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
    <style:text-properties style:font-name="CMU Serif" fo:font-family="&apos;CMU Serif&apos;" style:font-style-name="Roman" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="WenQuanYi Zen Hei Sharp" style:font-family-asian="&apos;WenQuanYi Zen Hei Sharp&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0201in" style:contextual-spacing="false" fo:line-height="90%"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0201in" loext:contextual-spacing="false" fo:line-height="90%"/>
   </style:style>
   <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
   </style:style>
   <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
-   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
    <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
@@ -173,11 +176,11 @@
    <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
   </style:style>
   <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0402in" style:contextual-spacing="false" style:page-number="auto"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0402in" loext:contextual-spacing="false" style:page-number="auto"/>
    <style:text-properties fo:font-size="130%" fo:font-weight="normal" style:font-size-asian="130%" style:font-weight-asian="normal" style:font-size-complex="130%" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text" style:master-page-name="">
-   <style:paragraph-properties fo:margin-top="0.0799in" fo:margin-bottom="0.0402in" style:contextual-spacing="false" style:page-number="auto" fo:padding="0.0201in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt dotted #284e42" style:shadow="none">
+   <style:paragraph-properties fo:margin-top="0.0799in" fo:margin-bottom="0.0402in" loext:contextual-spacing="false" style:page-number="auto" fo:padding="0.0201in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.06pt dotted #284e42" style:shadow="none">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:font-variant="small-caps" fo:color="#284e42" fo:font-size="115%" fo:font-weight="normal" style:font-size-asian="115%" style:font-weight-asian="normal" style:font-size-complex="115%" style:font-weight-complex="bold"/>
@@ -192,18 +195,18 @@
   </style:style>
   <style:style style:name="Frame_20_contents" style:display-name="Frame contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
   <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
-   <style:paragraph-properties fo:margin-left="0.3937in" fo:margin-right="0.3937in" fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false"/>
+   <style:paragraph-properties fo:margin-left="0.3937in" fo:margin-right="0.3937in" fo:margin-top="0in" fo:margin-bottom="0.1965in" loext:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false"/>
   </style:style>
   <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
-   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:paragraph-properties fo:margin-top="0.0417in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
-   <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false"/>
    <style:text-properties fo:color="#808080" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
@@ -472,7 +475,7 @@
    <style:text-properties officeooo:paragraph-rsid="005230ef"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="005230ef" officeooo:paragraph-rsid="005230ef"/>
+   <style:text-properties officeooo:rsid="005230ef" officeooo:paragraph-rsid="00556596"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="00133d00" officeooo:paragraph-rsid="00133d00"/>
@@ -510,59 +513,80 @@
   <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
    <style:text-properties officeooo:rsid="0052a198" officeooo:paragraph-rsid="0052a198"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="00556596" officeooo:paragraph-rsid="00556596"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="00559d38" officeooo:paragraph-rsid="00559d38"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="00133d00"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties>
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties fo:font-style="italic" officeooo:rsid="00131d6b" officeooo:paragraph-rsid="004880f0" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:paragraph-properties fo:text-align="justify" fo:text-align-last="justify" style:justify-single-word="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties officeooo:paragraph-rsid="004880f0"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="00133d00"/>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Job">
+   <style:text-properties officeooo:rsid="005230ef" officeooo:paragraph-rsid="00556596"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Job">
+   <style:text-properties officeooo:paragraph-rsid="00556596"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
-   <style:text-properties fo:font-style="italic" officeooo:rsid="00131d6b" style:font-style-asian="italic" style:font-style-complex="italic"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties officeooo:rsid="00131d6b"/>
+   <style:text-properties fo:font-style="italic" officeooo:rsid="00131d6b" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:rsid="00131d6b"/>
   </style:style>
   <style:style style:name="T4" style:family="text">
-   <style:text-properties style:font-name="CMU Typewriter Text"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
-   <style:text-properties style:font-name="CMU Typewriter Text" officeooo:rsid="0051b9cf"/>
+   <style:text-properties style:font-name="CMU Typewriter Text"/>
   </style:style>
   <style:style style:name="T6" style:family="text">
-   <style:text-properties officeooo:rsid="003d5908"/>
+   <style:text-properties style:font-name="CMU Typewriter Text" officeooo:rsid="0051b9cf"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
-   <style:text-properties officeooo:rsid="0041e941"/>
+   <style:text-properties officeooo:rsid="003d5908"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:color="#999999" officeooo:rsid="00427ccd"/>
+   <style:text-properties officeooo:rsid="0041e941"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:color="#999999" officeooo:rsid="0050bea6"/>
+   <style:text-properties fo:color="#999999" officeooo:rsid="00427ccd"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties officeooo:rsid="0047c06c"/>
+   <style:text-properties fo:color="#999999" officeooo:rsid="0050bea6"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties officeooo:rsid="004ebc79"/>
+   <style:text-properties officeooo:rsid="0047c06c"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties officeooo:rsid="0050bea6"/>
+   <style:text-properties officeooo:rsid="004ebc79"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="0050bea6"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
    <style:text-properties officeooo:rsid="005230ef"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties officeooo:rsid="00556596"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="00559d38"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Span">
    <style:graphic-properties style:vertical-pos="middle" style:vertical-rel="text" style:horizontal-pos="center" style:horizontal-rel="paragraph-content"/>
@@ -1002,24 +1026,33 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:h text:style-name="P8" text:outline-level="1"><text:span text:style-name="T1"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" draw:z-index="0">
+   <text:h text:style-name="P8" text:outline-level="1"><text:span text:style-name="T2"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="as-char" draw:z-index="0">
       <draw:text-box fo:min-height="0.0201in" fo:min-width="0.0201in">
        <text:h text:style-name="P10" text:outline-level="1">Ted Ying</text:h>
       </draw:text-box>
-     </draw:frame></text:span><text:span text:style-name="T1"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="mailto:ted@yingted.com?subject=Re:%20Résumé"><text:span text:style-name="T11">ted</text:span></text:a><text:span text:style-name="T11">@</text:span><text:a xlink:type="simple" xlink:href="http://tiny.cc/i4mimx"><text:span text:style-name="T11">yingted.com</text:span></text:a> <text:s/><text:span text:style-name="T2"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" draw:z-index="1">
+     </draw:frame></text:span><text:span text:style-name="T2"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="mailto:ted@yingted.com?subject=Re:%20Résumé" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T12">ted</text:span></text:a><text:span text:style-name="T12">@</text:span><text:a xlink:type="simple" xlink:href="http://tiny.cc/i4mimx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T12">yingted.com</text:span></text:a> <text:s/><text:span text:style-name="T3"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="as-char" draw:z-index="1">
       <draw:text-box fo:min-height="0.0201in" fo:min-width="0.0201in">
        <text:h text:style-name="Heading_20_1" text:outline-level="1">(647) 624-1168</text:h>
       </draw:text-box>
-     </draw:frame></text:span><text:span text:style-name="T2"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="http://tiny.cc/ud1gmx"><text:span text:style-name="T2">github.com/yingted</text:span></text:a></text:h>
+     </draw:frame></text:span><text:span text:style-name="T3"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="http://tiny.cc/ud1gmx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">github.com/yingted</text:span></text:a></text:h>
    <text:h text:style-name="P11" text:outline-level="2">Work Experience</text:h>
-   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Developer</text:span>, <text:span text:style-name="Where">Bloomberg</text:span><text:tab/><text:span text:style-name="When">Jan – May 2015</text:span><text:tab/><text:span text:style-name="City">New York, NY</text:span></text:p>
-   <text:list xml:id="list7743323343160140996" text:style-name="L1">
+   <text:p text:style-name="P32"><text:span text:style-name="Job_20_Title"><text:span text:style-name="T15">Software Engineer Intern</text:span></text:span>, <text:span text:style-name="Where"><text:span text:style-name="T15">Dropbox</text:span></text:span><text:tab/><text:span text:style-name="When"><text:span text:style-name="T15">Sept. </text:span></text:span><text:span text:style-name="When">– </text:span><text:span text:style-name="When"><text:span text:style-name="T15">Dec</text:span></text:span><text:span text:style-name="When"> 2015</text:span><text:tab/><text:span text:style-name="City">San Francisco, CA</text:span></text:p>
+   <text:list xml:id="list5697027980806612370" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P26">Built service<text:span text:style-name="T16"> for efficient summaries (histograms, heavy hitters, etc.) over subsets of time series</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P27">Hack project: Service which converts <text:span text:style-name="T1">Neko Atsume: Kitty Collector</text:span> screenshots in Dropbox to tabular and chart format using pandas, OpenCV, and R.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P31"><text:span text:style-name="Job_20_Title">Developer</text:span>, <text:span text:style-name="Where">Bloomberg</text:span><text:tab/><text:span text:style-name="When">Jan</text:span><text:span text:style-name="When"><text:span text:style-name="T15">.</text:span></text:span><text:span text:style-name="When"> – May 2015</text:span><text:tab/><text:span text:style-name="City">New York, NY</text:span></text:p>
+   <text:list xml:id="list215825140642803" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P13">Developed recommendation engine in Python and C++</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Full-stack Engineering Developer</text:span>, <text:span text:style-name="Where">Remind101</text:span><text:tab/><text:span text:style-name="When">May – Sept. 2014</text:span><text:tab/><text:span text:style-name="City">San Francisco, CA</text:span></text:p>
-   <text:list xml:id="list10714052984876" text:continue-numbering="true" text:style-name="L1">
+   <text:list xml:id="list215824646877470" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P14">Wrote new message sender, which has processed over half a billion events for 7 communication services and 3 encodings</text:p>
     </text:list-item>
@@ -1036,49 +1069,49 @@
      <text:p text:style-name="P23">Fixed bugs and identified vulnerabilities</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P14">Implemented optimizations reducing page load time from 13 s to 5 s <text:span text:style-name="T7">for users</text:span> on <text:span text:style-name="T12">slow connections</text:span></text:p>
+     <text:p text:style-name="P14">Implemented optimizations reducing page load time from 13 s to 5 s <text:span text:style-name="T8">for users</text:span> on <text:span text:style-name="T13">slow connections</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P14">Authored a metrics service capable of 360,000 requests per minute on Heroku&apos;s free tier</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Undergraduate Research Assistant</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:span text:style-name="When">Jan. – Apr. 2014</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
-   <text:list xml:id="list7149755886034966461" text:style-name="L2">
+   <text:list xml:id="list7841340686712778475" text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P16">Developed fluid animation simulator using spatial data structures <text:span text:style-name="T12">based on regular triangulations</text:span></text:p>
+     <text:p text:style-name="P16">Developed fluid animation simulator using spatial data structures <text:span text:style-name="T13">based on regular triangulations</text:span></text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P24">Checked algorithm correctness using CGAL (exact computational geometry in C++ templates)</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Developer</text:span>, <text:span text:style-name="Where">Weinreb Ventures</text:span><text:tab/><text:span text:style-name="When">June – Aug. 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list3391448025654232877" text:style-name="L3">
+   <text:list xml:id="list9059175701676513506" text:style-name="L3">
     <text:list-item>
      <text:p text:style-name="P17">Added form validation and input sanitization</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Head of Technology</text:span>, <text:span text:style-name="T12">Multiple Sclerosis</text:span><text:span text:style-name="Where"> Mississauga YC</text:span><text:tab/><text:span text:style-name="When">Sept. 2012 – June 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list2626339815431921367" text:style-name="L4">
+   <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Head of Technology</text:span>, <text:span text:style-name="T13">Multiple Sclerosis</text:span><text:span text:style-name="Where"> Mississauga YC</text:span><text:tab/><text:span text:style-name="When">Sept. 2012 – June 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
+   <text:list xml:id="list894468460316543207" text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P18">Created a <text:a xlink:type="simple" xlink:href="http://tiny.cc/fe1gmx">website</text:a> for event information using Django on Google App Engine</text:p>
+     <text:p text:style-name="P18">Created a <text:a xlink:type="simple" xlink:href="http://tiny.cc/fe1gmx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">website</text:a> for event information using Django on Google App Engine</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Skills</text:h>
-   <text:list xml:id="list2630552594870948583" text:style-name="L5">
+   <text:list xml:id="list2822100859009221317" text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P19">Languages: <text:span text:style-name="T3">Python, JavaScript, Java, C, Bash</text:span>, <text:span text:style-name="T3">C++</text:span>, <text:span text:style-name="T3">HTML</text:span>, <text:span text:style-name="T3">SASS</text:span>/<text:span text:style-name="T3">CSS</text:span>, and <text:span text:style-name="T3">Lua</text:span></text:p>
+     <text:p text:style-name="P19">Languages: <text:span text:style-name="T4">Python, JavaScript, Java, C, Bash</text:span>, <text:span text:style-name="T4">C++</text:span>, <text:span text:style-name="T4">HTML</text:span>, <text:span text:style-name="T4">SASS</text:span>/<text:span text:style-name="T4">CSS</text:span>, and <text:span text:style-name="T4">Lua</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Activities and Interests</text:h>
-   <text:list xml:id="list3985814157627208324" text:style-name="L6">
+   <text:list xml:id="list7374617666685516740" text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P20">Ran in-school programming competitions for <text:span text:style-name="T12">high school </text:span>computer science club</text:p>
+     <text:p text:style-name="P20">Ran in-school programming competitions for <text:span text:style-name="T13">high school </text:span>computer science club</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P20">Ported <text:a xlink:type="simple" xlink:href="http://tiny.cc/7h1gmx">Turing language </text:a><text:a xlink:type="simple" xlink:href="http://tiny.cc/7h1gmx"><text:span text:style-name="T10">VM and runtime</text:span></text:a> (written in C) to GNU/Linux</text:p>
+       <text:p text:style-name="P20">Ported <text:a xlink:type="simple" xlink:href="http://tiny.cc/7h1gmx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Turing language </text:a><text:a xlink:type="simple" xlink:href="http://tiny.cc/7h1gmx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T11">VM and runtime</text:span></text:a> (written in C) to GNU/Linux</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P20">Designed and developed <text:a xlink:type="simple" xlink:href="http://tiny.cc/rk1gmx">online grader</text:a> for practice CS competitions</text:p>
+       <text:p text:style-name="P20">Designed and developed <text:a xlink:type="simple" xlink:href="http://tiny.cc/rk1gmx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">online grader</text:a> for practice CS competitions</text:p>
        <text:list>
         <text:list-item>
          <text:p text:style-name="P20">Uses ACE (editor), jQuery, Python, LXC (virtualization), and libseccomp (sandbox)</text:p>
@@ -1086,7 +1119,7 @@
        </text:list>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P20"><text:a xlink:type="simple" xlink:href="http://tiny.cc/hn1gmx">Tron game server</text:a>, clients, example bots, and game recording viewer</text:p>
+       <text:p text:style-name="P20"><text:a xlink:type="simple" xlink:href="http://tiny.cc/hn1gmx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Tron game server</text:a>, clients, example bots, and game recording viewer</text:p>
        <text:list>
         <text:list-item>
          <text:p text:style-name="P20">Uses Twisted (Python evented networking), and Shed Skin (compiler)</text:p>
@@ -1096,7 +1129,7 @@
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P20"><text:a xlink:type="simple" xlink:href="http://tiny.cc/oo1gmx">Android app</text:a> for Teredo (IPv6) tunnelling</text:p>
+     <text:p text:style-name="P20"><text:a xlink:type="simple" xlink:href="http://tiny.cc/oo1gmx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Android app</text:a> for Teredo (IPv6) tunnelling</text:p>
      <text:list>
       <text:list-item>
        <text:p text:style-name="P20">Uses mksh, pthreads, and bionic libc</text:p>
@@ -1110,10 +1143,10 @@
      <text:p text:style-name="P20">Competitive algorithmic programmer:</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P20">Google Code Jam Online Round 2 Qualifier 2014 (username: <text:span text:style-name="T5">yingted</text:span>)</text:p>
+       <text:p text:style-name="P20">Google Code Jam Online Round 2 Qualifier 2014 (username: <text:span text:style-name="T6">yingted</text:span>)</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P20">Two times Silver Medallist (top 10 in Canada) in the Canadian Computing Competition</text:p>
+       <text:p text:style-name="P20"><text:soft-page-break/>Two times Silver Medallist (top 10 in Canada) in the Canadian Computing Competition</text:p>
       </text:list-item>
       <text:list-item>
        <text:p text:style-name="P20">ECOO team placed first in Ontario</text:p>
@@ -1124,9 +1157,9 @@
      <text:p text:style-name="P20">Interests: reading, skating, and skiing</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Education</text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Education</text:h>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">Candidate for Bachelor of Software Engineering</text:span>, <text:span text:style-name="Where">University of Waterloo</text:span><text:tab/><text:tab/><text:tab/><text:span text:style-name="When">Sept. 2013 – present</text:span><text:tab/><text:span text:style-name="City">Waterloo, ON</text:span></text:p>
-   <text:list xml:id="list3968891947763518656" text:style-name="L7">
+   <text:list xml:id="list8323020352078989588" text:style-name="L7">
     <text:list-item>
      <text:p text:style-name="P25">Prize-winning compiler, featuring self-extracting code, 3 – 4 times more compact than the second-best</text:p>
     </text:list-item>
@@ -1135,7 +1168,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Job"><text:span text:style-name="Job_20_Title">High School Diploma</text:span>, <text:span text:style-name="Where">The Woodlands School</text:span><text:tab/><text:span text:style-name="When">June 2013</text:span><text:tab/><text:span text:style-name="City">Mississauga, ON</text:span></text:p>
-   <text:list xml:id="list8463962168333203255" text:style-name="L8">
+   <text:list xml:id="list1662421753170341804" text:style-name="L8">
     <text:list-item>
      <text:p text:style-name="P22">Implemented and optimized a 3D renderer in the Turing language</text:p>
     </text:list-item>

@@ -9,6 +9,7 @@ def main():
 		sys.exit(2)
 
 	odt, css = args
+	odt = odt.decode('utf-8')
 
 	with open(css) as f:
 		styles = f.read()
