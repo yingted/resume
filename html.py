@@ -8,6 +8,9 @@ def main():
 		sys.stderr.write("Usage: %s file.odt file.css\n" % sys.argv[0])
 		sys.exit(2)
 
+	reload(sys)
+	sys.setdefaultencoding('utf-8')
+
 	odt, css = args
 	odt = odt.decode('utf-8')
 
