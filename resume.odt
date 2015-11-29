@@ -1036,7 +1036,7 @@
       </draw:text-box>
      </draw:frame></text:span><text:span text:style-name="T3"> </text:span><text:s/><text:a xlink:type="simple" xlink:href="http://tiny.cc/ud1gmx" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T3">github.com/yingted</text:span></text:a></text:h>
    <text:h text:style-name="P11" text:outline-level="2">Work Experience</text:h>
-   <text:p text:style-name="P32"><text:span text:style-name="Job_20_Title"><text:span text:style-name="T15">Software Engineer Intern</text:span></text:span>, <text:span text:style-name="Where"><text:span text:style-name="T15">Dropbox</text:span></text:span><text:tab/><text:span text:style-name="When"><text:span text:style-name="T15">Sept. </text:span></text:span><text:span text:style-name="When">– </text:span><text:span text:style-name="When"><text:span text:style-name="T15">Dec</text:span></text:span><text:span text:style-name="When"> 2015</text:span><text:tab/><text:span text:style-name="City">San Francisco, CA</text:span></text:p>
+   <text:p text:style-name="P32"><text:span text:style-name="Job_20_Title"><text:span text:style-name="T15">Software Engineer Intern</text:span></text:span>, <text:span text:style-name="Where"><text:span text:style-name="T15">Dropbox</text:span></text:span><text:tab/><text:span text:style-name="When">Sept. – Dec. 2015</text:span><text:tab/><text:span text:style-name="City">San Francisco, CA</text:span></text:p>
    <text:list xml:id="list5697027980806612370" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P26">Built service<text:span text:style-name="T16"> for efficient summaries (histograms, heavy hitters, etc.) over subsets of time series</text:span></text:p>
@@ -1045,7 +1045,7 @@
      <text:p text:style-name="P27">Hack project: Service which converts <text:span text:style-name="T1">Neko Atsume: Kitty Collector</text:span> screenshots in Dropbox to tabular and chart format using pandas, OpenCV, and R.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P31"><text:span text:style-name="Job_20_Title">Developer</text:span>, <text:span text:style-name="Where">Bloomberg</text:span><text:tab/><text:span text:style-name="When">Jan</text:span><text:span text:style-name="When"><text:span text:style-name="T15">.</text:span></text:span><text:span text:style-name="When"> – May 2015</text:span><text:tab/><text:span text:style-name="City">New York, NY</text:span></text:p>
+   <text:p text:style-name="P31"><text:span text:style-name="Job_20_Title">Developer</text:span>, <text:span text:style-name="Where">Bloomberg</text:span><text:tab/><text:span text:style-name="When">Jan. – May 2015</text:span><text:tab/><text:span text:style-name="City">New York, NY</text:span></text:p>
    <text:list xml:id="list215825140642803" text:continue-numbering="true" text:style-name="L1">
     <text:list-item>
      <text:p text:style-name="P13">Developed recommendation engine in Python and C++</text:p>
